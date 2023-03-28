@@ -1,4 +1,4 @@
-# This program takes a gzip json file and counts the tweets and counts the emoji's per categorie
+# This program takes a gzip json file and counts the tweets and counts the emoji's per category
 
 
 
