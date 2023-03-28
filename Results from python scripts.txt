@@ -1,0 +1,185 @@
+This is the resulting data from applying the python scripts to my randomly picked files.
+
+2013:
+
+Total sentences: 816412
+Sentences containing emojis: 26430
+Average number of emojis in sentences containing emojis: 1.0898221717744987
+Percentage of tweets containing emoji's: 3.2373360509154696
+
+Smileys & Emotion count: 18519
+People & Body count: 5014
+Component count: 0
+Animals & Nature count: 269
+Food & Drink count: 533
+Travel & Places count: 122
+Activities count: 593
+Objects count: 853
+Symbols count: 10090
+Flags count: 81
+
+2014:
+
+Total sentences: 380642
+Sentences containing emojis: 30729
+Average number of emojis in sentences containing emojis: 1.1037131048846367
+Percentage of tweets containing emoji's: 8.07293992780618%
+
+Smileys & Emotion count: 22340
+People & Body count: 5272
+Component count: 0
+Animals & Nature count: 234
+Food & Drink count: 639
+Travel & Places count: 159
+Activities count: 382
+Objects count: 1201
+Symbols count: 11336
+Flags count: 46
+
+2015:
+
+Total sentences: 319783
+Sentences containing emojis: 23397
+Average number of emojis in sentences containing emojis: 1.1040304312518698
+Percentage of tweets containing emoji's: 7.316524017849605%
+
+Smileys & Emotion count: 18315
+People & Body count: 3351
+Component count: 810
+Animals & Nature count: 201
+Food & Drink count: 653
+Travel & Places count: 129
+Activities count: 355
+Objects count: 1040
+Symbols count: 7186
+Flags count: 43
+
+2016:
+
+Total sentences: 250826
+Sentences containing emojis: 19374
+Average number of emojis in sentences containing emojis: 1.0903272426963972
+Percentage of tweets containing emoji's: 7.724079640866577%
+
+Smileys & Emotion count: 15175
+People & Body count: 2052
+Component count: 1316
+Animals & Nature count: 182
+Food & Drink count: 547
+Travel & Places count: 152
+Activities count: 281
+Objects count: 675
+Symbols count: 5796
+Flags count: 84
+
+2017:
+
+Total sentences: 152788
+Sentences containing emojis: 13761
+Average number of emojis in sentences containing emojis: 1.1116924642104498
+Percentage of tweets containing emoji's: 9.006597376757338%
+
+Smileys & Emotion count: 10662
+People & Body count: 1464
+Component count: 860
+Animals & Nature count: 247
+Food & Drink count: 488
+Travel & Places count: 142
+Activities count: 208
+Objects count: 605
+Symbols count: 4290
+Flags count: 82
+
+2018:
+
+Total sentences: 130096
+Sentences containing emojis: 11779
+Average number of emojis in sentences containing emojis: 1.1175821377026913
+Percentage of tweets containing emoji's: 9.054083138605337%
+
+Smileys & Emotion count: 8519
+People & Body count: 1326
+Component count: 873
+Animals & Nature count: 183
+Food & Drink count: 450
+Travel & Places count: 165
+Activities count: 324
+Objects count: 647
+Symbols count: 3974
+Flags count: 197
+
+2019:
+
+Total sentences: 162498
+Sentences containing emojis: 16297
+Average number of emojis in sentences containing emojis: 1.1275694913174203
+Percentage of tweets containing emoji's: 10.02904651134168%
+
+Smileys & Emotion count: 11844
+People & Body count: 1783
+Component count: 1281
+Animals & Nature count: 267
+Food & Drink count: 678
+Travel & Places count: 185
+Activities count: 437
+Objects count: 759
+Symbols count: 5570
+Flags count: 241
+
+2020:
+
+Total sentences: 257790
+Sentences containing emojis: 29396
+Average number of emojis in sentences containing emojis: 1.1248809361817935
+Percentage of tweets containing emoji's: 11.40308002637806%
+
+Smileys & Emotion count: 21589
+People & Body count: 3153
+Component count: 2292
+Animals & Nature count: 444
+Food & Drink count: 1396
+Travel & Places count: 450
+Activities count: 767
+Objects count: 1305
+Symbols count: 9984
+Flags count: 308
+
+2021:
+
+Total sentences: 166365
+Sentences containing emojis: 18972
+Average number of emojis in sentences containing emojis: 1.132405650432216
+Percentage of tweets containing emoji's: 11.403840952123344%
+
+Smileys & Emotion count: 13039
+People & Body count: 2358
+Component count: 1493
+Animals & Nature count: 258
+Food & Drink count: 842
+Travel & Places count: 376
+Activities count: 551
+Objects count: 1057
+Symbols count: 7172
+Flags count: 303
+
+
+2022:
+
+Total sentences: 240720
+Sentences containing emojis: 30227
+Average number of emojis in sentences containing emojis: 1.1735203625897377
+Percentage of tweets containing emoji's: 12.556912595546693%
+
+Smileys & Emotion count: 19907
+People & Body count: 4469
+Component count: 2382
+Animals & Nature count: 576
+Food & Drink count: 2398
+Travel & Places count: 613
+Activities count: 952
+Objects count: 2097
+Symbols count: 12924
+Flags count: 570
+
+
+

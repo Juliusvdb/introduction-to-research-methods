@@ -1,0 +1,29 @@
+These are the prompts I used to copy the files from the karora server to my pc. These only show the 2016 prompts but the same goes for the other years just enter the randomly generated hours I attached in the github page and you can reproduce my results.
+
+January:
+"scp s5196639@karora.let.rug:/net/corpora/twitter2/Tweets/2016/01/2016MM01:HH.out.gz ."
+
+February:
+"scp s5196639@karora.let.rug:/net/corpora/twitter2/Tweets/2016/02/2016MMDD:HH.out.gz ."
+
+March:
+"scp s5196639@karora.let.rug:/net/corpora/twitter2/Tweets/2016/03/2016MMDD:HH.out.gz ."
+
+April:
+"scp s5196639@karora.let.rug:/net/corpora/twitter2/Tweets/2016/04/2016MMDD:HH.out.gz ."
+
+May:
+"scp s5196639@karora.let.rug:/net/corpora/twitter2/Tweets/2016/05/2016MMDD:HH.out.gz ."
+
+June:
+"scp s5196639@karora.let.rug:/net/corpora/twitter2/Tweets/2016/06/2016MMDD:HH.out.gz ."
+
+July:
+"scp s5196639@karora.let.rug:/net/corpora/twitter2/Tweets/2016/07/2016MMDD:HH.out.gz ."
+
+August:
+"scp s5196639@karora.let.rug:/net/corpora/twitter2/Tweets/2016/08/2016MMDD:HH.out.gz ."
+
+September:
+"scp s5196639@karora.let.rug:/net/corpora/twitter2/Tweets/2016/09/2016MMDD:HH.out.gz ."
+
